@@ -1,9 +1,9 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-0.0.2/Ganimedes-0.0.2.AppImage",
-    "install": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-0.0.2/Ganimedes-0.0.2.AppImage",
-    "version": "0.0.2",
-    "sha256": "0730450e6af6b8cb1bf333f7660ba9aca28f1d803084ed2d98852076a40fe247"
+    "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-1.21.0/Ganimedes-1.21.0.AppImage",
+    "install": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-1.21.0/Ganimedes-1.21.0.AppImage",
+    "version": "1.21.0",
+    "sha256": "6cca25c30a966db4be3a4022e6507a3c62ccd395ca6f26fcb7ffbd9d212f0756"
   },
   "win32-ia32-prod": {
     "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/win32-ia32-prod-0.0.1",
