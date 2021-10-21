@@ -1,9 +1,10 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-1.21.0/Ganimedes-1.21.0.AppImage",
-    "install": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-1.21.0/Ganimedes-1.21.0.AppImage",
-    "version": "1.21.0",
-    "sha256": "6cca25c30a966db4be3a4022e6507a3c62ccd395ca6f26fcb7ffbd9d212f0756"
+    "readme": "Los botones de seleccion de organizacion ahora son mas largos",
+    "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-1.21.1/Ganimedes-1.21.1.AppImage",
+    "install": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/linux-x64-prod-1.21.1/Ganimedes-1.21.1.AppImage",
+    "version": "1.21.1",
+    "sha256": "3c2554a5cde1218fbad2fec739e6f2b35e2bde76d5764a97047e3f70da0f5247"
   },
   "win32-ia32-prod": {
     "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/win32-ia32-prod-0.0.1",
