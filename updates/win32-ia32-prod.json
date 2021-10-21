@@ -6,8 +6,9 @@
     "sha256": "5560933bc5b734d638093b18f19ea2ac103d1eae9ba190d094e1ee3bc217c1ef"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/win32-ia32-prod-1.21.0",
-    "install": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/win32-ia32-prod-1.21.0/Ganimedes.Setup.1.21.0.exe",
-    "version": "1.21.0"
+    "readme": "Los botones de seleccion de organizacion ahora son mas largos",
+    "update": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/win32-ia32-prod-1.21.1",
+    "install": "https://github.com/IanPuchetti/ganimedes-releases/releases/download/win32-ia32-prod-1.21.1/Ganimedes.Setup.1.21.1.exe",
+    "version": "1.21.1"
   }
 }
